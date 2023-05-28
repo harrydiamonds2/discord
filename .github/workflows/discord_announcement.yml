@@ -1,1 +1,4 @@
+curl -X POST -H "Content-Type: application/json" -d '{
+  "content": "Your announcement message"
+}' <webhook_url>
 
